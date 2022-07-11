@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">Coinbase 18% ex-employee attending a 3-stack coding bootcamp!</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media.giphy.com/media/j2lXbdP78ciPZNg52Y/giphy.gif”>
+<iframe src="https://giphy.com/embed/j2lXbdP78ciPZNg52Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j2lXbdP78ciPZNg52Y">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasszz&label=Profile%20views&color=0e75b6&style=flat" alt="sasszz" /> </p>
 
