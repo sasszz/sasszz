@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
-<img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" class="centerImage" alt="Lucie at the Computer Gif">
+<center><img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Lucie at the Computer Gif"></center>
 <h3 align="center">Coinbase 18% ex-employee attending a 3-stack coding bootcamp!</h3>
 
 - 🌱 I’m currently learning **Javascript, CSS, HTML.**
