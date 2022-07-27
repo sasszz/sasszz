@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">In attendance of a 3-stack coding bootcamp!</h3>
-- 🌱 I’m currently learning **Javascript, CSS, HTML.**
+<h3 align="center">🌱 I’m currently learning **Javascript, CSS, HTML.</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
 </p>
