@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucie</h1>
+<h1 align="center">Hi 👋, I'm Boocie</h1>
 <h3 align="center">I'm in attendance of a 3-stack coding bootcamp.</h3>
 <p align="center">🌱 I’m currently learning Javascript, CSS, HTML.</p>
 <p align="center">
