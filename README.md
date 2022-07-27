@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boocie</h1>
+<h1 align="center">Hi 👋, I'm Lucie</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
 </p>
