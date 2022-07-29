@@ -2,9 +2,9 @@
 <h3 align="center">I'm a future developer and developer in training!</h3>
 <p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
-<p>Coder Dex - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
-<p>Random Pizza Generator - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
-<p>Boocie's Sanctuary - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
+<h4>>Coder Dex</h4> <p> - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
+<h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
+<h4>Boocie's Sanctuary</h4> <p> - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
