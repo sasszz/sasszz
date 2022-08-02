@@ -7,9 +7,9 @@
 <h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
 <h4>Boocie's Sanctuary</h4> <p> - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
 
-| <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif" width=50 height=50> | Socials                                    |   |   |   |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|---|---|---|
-| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50>                                                | https://www.linkedin.com/in/lucie-c-sasszz |   |   |   |
+| <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif" width=50 height=50> | <h4>Socials</h4>                                    |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50>                                                | https://www.linkedin.com/in/lucie-c-sasszz |
 
 <p align="center">
   <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
