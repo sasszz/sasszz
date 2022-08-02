@@ -10,9 +10,9 @@
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 
-| <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif" width=175 height=175> | <h4>Socials</h4>                                    |
+| <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif" width=75 height=75> | <h4>Socials</h4>                                    |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=175 height=175>                                                | https://www.linkedin.com/in/lucie-c-sasszz |
+| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=75 height=75>                                                | https://www.linkedin.com/in/lucie-c-sasszz |
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
