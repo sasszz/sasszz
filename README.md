@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">I'm a future developer and developer in training!</h3>
+
 <img src="pixel-art-room.jpg" alt="Pixel Art Room">
 <p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
