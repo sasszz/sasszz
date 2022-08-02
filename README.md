@@ -9,7 +9,7 @@
 
 | Socials     |             |
 | ----------- | ----------- |
-| Header      | Title       |
+| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=100 height=100>      | Title       |
 | Paragraph   | Text        |
 
 <p align="center">
