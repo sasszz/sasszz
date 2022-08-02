@@ -9,8 +9,8 @@
 
 | Socials     |             |
 | ----------- | ----------- |
-| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=100 height=100>      | Title       |
-| Paragraph   | Text        |
+| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50>      | (https://www.linkedin.com/in/lucie-c-sasszz)       |
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
