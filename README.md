@@ -9,7 +9,7 @@
 
 <img src="pixel-art-linked-in.png" alt="Linked In Icon">
 <p align="center">
-  <img src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
+  <img height="20px" src="https://media.giphy.com/media/qbsLGxalSfYqTa7EuD/giphy.gif" alt="Boocie at the Computer Gif">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
