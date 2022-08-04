@@ -2,7 +2,7 @@
 <h3 align="center">I'm a future developer and developer in training!</h3>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
-<p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
+<p align="center">🌱 I’m currently learning Python, Django, Javascript, CSS, HTML.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
 <h4>Coder Dex</h4> <p> - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
 <h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
