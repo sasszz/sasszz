@@ -8,9 +8,9 @@
 <h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
 <h4>Boocie's Sanctuary</h4> <p> - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
 
-<img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
-
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
+
+<img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
 | <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50> | <h3>https://www.linkedin.com/in/lucie-c-sasszz</h3>|
 |-----------------------------------------------------------------------------|--------------------------------------------|
