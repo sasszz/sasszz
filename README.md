@@ -4,6 +4,7 @@
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
 <p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
+<h4>Gwei Check</h4> <p> - users can check the current cost to transact on the Ethereum Blockchain: https://www.gweicheck.app</p>
 <h4>Coder Dex</h4> <p> - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
 <h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
 <h4>Boocie's Sanctuary</h4> <p> - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
