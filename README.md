@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">I'm a full-stack developer with a passion for design, front-end development and blockchains!</h3>
+<hr>
+
 <p align="center">My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
+<hr>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
+<hr>
 
 <h3 align="center">🌱 Technical Skills 🌱 </h3>
   
@@ -12,6 +16,8 @@
 <p align="center">Version Control Systems | Git, GitHub</p>
 <p align="center">Cloud Services | AWS EC2, Heroku</p>
 <p align="center">Design | Figma, Adobe Illustrator, Procreate </p>
+
+<hr>
 
 <h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
@@ -23,13 +29,17 @@
   <p align="center"> - Front-end development - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
 <h4 align="center">Random Image Generator</h4> 
   <p align="center"> - Front-end development - clicking a button makes a pizza, original art by myself using Procreate: https://sasszz.github.io/randomPizzaGenerator/</p>
+  
+<hr>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 
-<img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
-
 | <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50> | <h3>https://www.linkedin.com/in/lucie-c-sasszz</h3>|
 |-----------------------------------------------------------------------------|--------------------------------------------|
+
+<img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
+
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
