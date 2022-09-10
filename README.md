@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">I'm a full-stack developer with a passion for design, front-end development and blockchains!</h3>
-<p>My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
+<p align="center">My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
 
@@ -15,14 +15,14 @@
 
 <h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
-<h4>Self Custody Wallet React App</h4> 
-  <p> - Full-stack development - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
-<h4>Gwei Check Python App</h4> 
-  <p> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
-<h4>Coder Dex</h4> 
-  <p> - Front-end development - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
-<h4>Random Image Generator</h4> 
-  <p> - Front-end development - clicking a button makes a pizza, original art by myself using Procreate: https://sasszz.github.io/randomPizzaGenerator/</p>
+<h4 align="center">Self Custody Wallet React App</h4> 
+  <p align="center"> - Full-stack development - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
+<h4 align="center">Gwei Check Python App</h4> 
+  <p align="center"> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
+<h4 align="center">Coder Dex</h4> 
+  <p align="center"> - Front-end development - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
+<h4 align="center">Random Image Generator</h4> 
+  <p align="center"> - Front-end development - clicking a button makes a pizza, original art by myself using Procreate: https://sasszz.github.io/randomPizzaGenerator/</p>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 
