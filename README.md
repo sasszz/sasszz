@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">I'm a full-stack developer with a passion for design, front-end development and blockchains!</h3>
-<p>My coding journey began on June 17th 2022 when I was let go from my customer service position at Coinbase. Since then, I have been committed full time to full stack software development, and I have spent hundreds of hours in immersive learning at a 3 full stack coding bootcamp. Check out some of my highlighted projects, as well as original art, below! </p>
+<p>My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
 
