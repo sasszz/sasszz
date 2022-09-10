@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">I'm a full-stack developer with a passion for design, front-end development and blockchains!</h3>
-<p>My coding journey began on June 17th 2022 when I was let go from my customer service position at Coinbase. Since then, I have been committed full time to full stack software development, and I am set to graduate from Coding Dojo on October 21st, 2022. Check out some of my highlighted projects, as well as original art, below! </p>
+<p>My coding journey began on June 17th 2022 when I was let go from my customer service position at Coinbase. Since then, I have been committed full time to full stack software development, and I have spent hundreds of hours in immersive learning at a 3 full stack coding bootcamp. Check out some of my highlighted projects, as well as original art, below! </p>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
-<p align="center">🌱 I’m currently learning React.</p>
+
+<h3 align="center">🌱 Technical Skills 🌱 </h3>
+  
+<p align="center">Languages | Python, JavaScript, Java, SQL, HTML5, CSS </p>
+<p align="center">Frameworks/Libraries | React, Bootstrap, jQuery </p>
+<p align="center">Databases | MySQL, SQLite, MongoDB, ClearDB</p>
+<p align="center">Version Control Systems | Git, GitHub</p>
+<p align="center">Cloud Services | AWS EC2, Heroku</p>
+<p align="center">Design | Figma, Adobe Illustrator, Procreate </p>
+
 <h3 align="center">Highlighted Repository Projects</h3>
 
 <h4>Self Custody Wallet React App</h4> 
@@ -13,7 +22,7 @@
 <h4>Coder Dex</h4> 
   <p> - Front-end development - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
 <h4>Random Image Generator</h4> 
-  <p> - Front-end development - clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
+  <p> - Front-end development - clicking a button makes a pizza, original art by myself using Procreate: https://sasszz.github.io/randomPizzaGenerator/</p>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 
