@@ -13,7 +13,7 @@
 <p align="center">Cloud Services | AWS EC2, Heroku</p>
 <p align="center">Design | Figma, Adobe Illustrator, Procreate </p>
 
-<h3 align="center">Highlighted Repository Projects</h3>
+<h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
 <h4>Self Custody Wallet React App</h4> 
   <p> - Full-stack development - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
