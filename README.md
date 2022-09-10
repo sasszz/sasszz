@@ -3,7 +3,7 @@
 <p>My coding journey began on June 17th 2022 when I was let go from my customer service position at Coinbase. Since then, I have been committed full time to full stack software development, and I am set to graduate from Coding Dojo on October 21st, 2022. Check out some of my highlighted projects below! </p>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
-<p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
+<p align="center">🌱 I’m currently learning React.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
 <h4>Self Custody Wallet React App<h/4> <p> - send, receive and view cryptocurrency transactions (in Progress): https://github.com/sasszz/self-custody-wallet-react-app</p>
 <h4>Gwei Check</h4> <p> - users can check the current cost to transact on the Ethereum Blockchain: https://www.gweicheck.app</p>
