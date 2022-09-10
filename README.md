@@ -5,7 +5,8 @@
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
 <p align="center">🌱 I’m currently learning React.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
-<h4>Self Custody Wallet React App<h/4> 
+
+<h4>Self Custody Wallet React App</h4> 
   <p> - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
 <h4>Gwei Check Python App</h4> 
   <p> - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
