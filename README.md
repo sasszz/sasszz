@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 
-<p align="center">My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
+<p align="center">My coding journey began on June 17th, 2022 when I was let go from my position at Coinbase. Since then, I have been committed full-time to full-stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
 <hr>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
