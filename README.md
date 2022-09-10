@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
-<h3 align="center">I'm a full-stack developer!</h3>
+<h3 align="center">I'm a full-stack developer with a passion for design, front-end development and blockchains!</h3>
+<p>My coding journey began on June 17th 2022 when I was let go from my customer service position at Coinbase. </p>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
 <p align="center">🌱 I’m currently learning Python, Javascript, CSS, HTML.</p>
 <h3 align="center">Highlighted Repository Projects</h3>
+<h4>Self Custody Wallet React App<h/4> <p> - send, receive and view cryptocurrency transactions (in Progress): https://github.com/sasszz/self-custody-wallet-react-app</p>
 <h4>Gwei Check</h4> <p> - users can check the current cost to transact on the Ethereum Blockchain: https://www.gweicheck.app</p>
 <h4>Coder Dex</h4> <p> - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
 <h4>Random Pizza Generator</h4> <p> - Clicking a button makes a pizza, original art by @sasszz: https://sasszz.github.io/randomPizzaGenerator/</p>
-<h4>Boocie's Sanctuary</h4> <p> - Custom Web Page Design with Javascript functionality: https://sasszz.github.io/boociesSanctuary/</p>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
 
