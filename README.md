@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
-<hr>
 
 <p align="center">My coding journey began on June 17th 2022 when I was let go from my position at Coinbase. Since then, I have been committed full time to full stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
 <hr>
@@ -32,9 +31,7 @@
 <hr>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
-
-| <img src="pixel-art-linked-in.png" alt="Linked In Icon" width=50 height=50> | <h3>https://www.linkedin.com/in/lucie-c-sasszz</h3>|
-|-----------------------------------------------------------------------------|--------------------------------------------|
+<p align="center">https://www.linkedin.com/in/lucie-c-sasszz</h3>
 
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
