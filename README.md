@@ -3,17 +3,7 @@
 <p align="center">My coding journey began on June 17th, 2022 when I was let go from my position at Coinbase. Since then, I have been committed full-time to full-stack software development. Check out some of my highlighted projects, as well as original art, below! </p>
 <hr>
 
-<img src="pixel-art-room-gif.gif" alt="Pixel Art Room">
-<hr>
-
-<h3 align="center">🌱 Technical Skills 🌱 </h3>
-  
-<p align="center">Languages | Python, JavaScript, Java, SQL, HTML5, CSS </p>
-<p align="center">Frameworks/Libraries | React, Bootstrap, jQuery </p>
-<p align="center">Databases | MySQL, SQLite, MongoDB, ClearDB</p>
-<p align="center">Version Control Systems | Git, GitHub</p>
-<p align="center">Cloud Services | AWS EC2, Heroku</p>
-<p align="center">Design | Figma, Adobe Illustrator, Procreate </p>
+<img src="pixel-art-room-gif.gif" alt="Pixel Art Room">  
 
 <hr>
 
@@ -21,6 +11,8 @@
 
 <h4 align="center">Self Custody Wallet React App</h4> 
   <p align="center"> - Full-stack development - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
+  <img align="center" src="wallet-demo.gif alt="Wallet Demo"
+  
 <h4 align="center">Gwei Check Python App</h4> 
   <p align="center"> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
 <h4 align="center">Coder Dex</h4> 
