@@ -11,7 +11,7 @@
 
 <h4 align="center">Self Custody Wallet React App</h4> 
   <p align="center"> - Full-stack development - send, receive and view cryptocurrency transactions: https://github.com/sasszz/self-custody-wallet-react-app</p>
-  <img align="center" src="wallet-demo.gif alt="Wallet Demo"
+  <img align="center" src="wallet-demo.gif" alt="Wallet Demo"
   
 <h4 align="center">Gwei Check Python App</h4> 
   <p align="center"> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
