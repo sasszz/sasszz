@@ -18,10 +18,6 @@
   <p align="center"> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees: https://www.gweicheck.app</p>
     <img align="center" src="demo.gif" alt="Gas Fee Estimator Demo"
  <hr>
-<h4 align="center">Coder Dex</h4> 
-  <p align="center"> - Front-end development - search any Github Username and a Profile Card will populate: https://sasszz.github.io/coderDex/</p>
-<h4 align="center">Random Image Generator</h4> 
-  <p align="center"> - Front-end development - clicking a button makes a pizza, original art by myself using Procreate: https://sasszz.github.io/randomPizzaGenerator/</p>
   
 <hr>
 
