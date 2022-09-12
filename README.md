@@ -10,13 +10,13 @@
 <h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
 <h4 align="center">Self Custody Wallet React App</h4> 
-  <p align="center"> - Full-stack development - send, receive and view cryptocurrency transactions. </p>
+  <p align="center">Full-stack development - send, receive and view cryptocurrency transactions. </p>
   <p align="center"> https://github.com/sasszz/self-custody-wallet-react-app</p>
   <img align="center" src="wallet-demo.gif" alt="Wallet Demo"
  <hr>
  
 <h4 align="center">Gwei Check Python App</h4> 
-  <p align="center"> - Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees. </p>
+  <p align="center">Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees. </p>
   <p align="center"> https://www.gweicheck.app</p>
     <img align="center" src="demo.gif" alt="Gas Fee Estimator Demo"
  <hr>
