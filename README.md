@@ -9,10 +9,10 @@
 
 <h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
-<h4 align="center">Self Custody Wallet React App</h4> 
+<h4 align="center">Not Coinbase Wallet</h4> 
   <p align="center">Full-stack development - send, receive and view cryptocurrency transactions. </p>
   <p align="center"> https://github.com/sasszz/self-custody-wallet-react-app</p>
-  <img align="center" src="wallet-demo.gif" alt="Wallet Demo"
+  <img align="center" src="ncb-demo.gif" alt="Wallet Demo"
  <hr>
  
 <h4 align="center">Gwei Check Python App</h4> 
