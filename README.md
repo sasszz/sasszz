@@ -14,7 +14,8 @@
   <p align="center">Full-stack development - send, receive and view cryptocurrency transactions. </p>
   <p align="center"> https://github.com/sasszz/self-custody-wallet-react-app</p>
   <img align="center" src="ncb-demo.gif" alt="Wallet Demo"
- <hr>
+ 
+<hr>
  
 <h4 align="center">Gwei Check Python App</h4> 
   <p align="center">TECH STACK: Python, Flask, MySQL, AWS EC2 </p>
