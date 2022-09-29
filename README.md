@@ -32,6 +32,8 @@
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
 <hr>
+![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=dark&font=Averia%20Libre&ext=heatmap)
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
