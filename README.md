@@ -32,7 +32,8 @@
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
 <hr>
-<img src="leetcode.png" alt="LeetCode Stats">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)
 
 <hr>
 
