@@ -32,6 +32,7 @@
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
 <hr>
+<h3 align="center">Leetcode Stats:</h3>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)
 
