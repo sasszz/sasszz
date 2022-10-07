@@ -33,8 +33,9 @@
 
 <hr>
 <h3 align="center">Leetcode Stats:</h3>
-
+<div align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)
+</div>
 
 <hr>
 
