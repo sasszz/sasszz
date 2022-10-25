@@ -32,11 +32,8 @@
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
 
 <hr>
-<h3 align="center">Leetcode Stats:</h3>
-<div align="center">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)
-</div>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/sasszz?theme=unicorn&extension=activity)
+<h3 align="center">Daily Leetcode Repository:</h3>
+<p>https://github.com/sasszz/Daily-Leet-Code</p>
 
 <hr>
 
