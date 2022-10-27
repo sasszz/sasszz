@@ -33,7 +33,7 @@
 
 <hr>
 <h3 align="center">Daily Leetcode Repository:</h3>
-<p align="center">https://github.com/sasszz/Daily-Leet-Code</p>
+<p align="center">https://github.com/sasszz/DailyLeetCode</p>
 
 <hr>
 
