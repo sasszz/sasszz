@@ -27,13 +27,12 @@
 <hr>
 
 <h3 align="center">Follow me on GitHub and LinkedIn!</h3>
-<p align="center">https://www.linkedin.com/in/lucie-c-sasszz</h3>
+<p align="center"><a href="https://www.linkedin.com/in/lucie-c-sasszz" target="_blank" rel="noreferrer">LinkedIn</a></h3>
+<p align="center"><a href="https://www.luciechevreuil.com/" target="_blank" rel="noreferrer">Portfolio</a></h3>
+<hr>
+
 
 <img src="pixel-art-keyboard.gif" alt="Pixel Art Keyboard Gif">
-
-<hr>
-<h3 align="center">Daily Leetcode Repository:</h3>
-<p align="center">https://github.com/sasszz/DailyLeetCode</p>
 
 <hr>
 
