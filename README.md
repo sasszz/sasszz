@@ -50,7 +50,7 @@
 <h4 align="center">A.S. Computer Science Degree Progress Chart </h4> 
   <p align="center">TECH STACK: React, Vite, Tailwind, ChartsJS, Typescript, Firebase </p>
   <p align="center">Full-stack development - React site to preview AS CS degree progress using multi-series pie chart from ChartsJS </p>
-  <p align="center"> [https://github.com/sasszz/self-custody-wallet-react-app](https://github.com/sasszz/degree-progress) </p>
+  <p align="center"> https://github.com/sasszz/degree-progress </p>
   <img align="center" src="dpc-demo.gif" alt="Degree Progress Chart Demo"
  
 <hr>
