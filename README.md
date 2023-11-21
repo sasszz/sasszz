@@ -45,29 +45,49 @@
 
 <hr>
 
+<h3 align="center">:partying_face: GirlDevelopIt Hackathon Participant :partying_face:</h3>
+<div align="center">
+  <img src="https://github.com/sasszz/sasszz/assets/95937955/286ec957-e8c8-4088-91f8-46af0454519e" width="100" height="100" alt="GDI2022">
+  <img src="https://github.com/sasszz/sasszz/assets/95937955/87cf1fc4-d673-4f8c-be9c-a08e50a9aabf" width="100" height="100" alt="GDI2023">
+</div>
+
+<h4>2022 - Note to Chef Recipe App</h4>
+<p>Note to Chef is a tool to assist with planning for a variety of dietary needs by curating a collection of recipes.
+<a href="https://github.com/tinalr/recipebox-gdihackathon2022" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
+<span> | </span>
+<a href="https://www.notetochef-gdihackathon22.com/" target="_blank" rel="noopener noreferrer">LIVE SITE</a></p>
+
+<h4>2023 - Classroom Connect Video Conferencing App</h4>
+<p>Classroom Connect combines video conferencing and virtual reality for an enhanced classroom experience.
+<a href="https://github.com/sasszz/classroom-connect-mern" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
+<span> | </span>
+<a href="https://github.com/sasszz/classroom-connect-mern" target="_blank" rel="noopener noreferrer">LIVE SITE</a></p>
+
+<hr>
+
 <h3 align="center">🌱 Highlighted Repository Projects 🌱</h3>
 
 <h4 align="center">A.S. Computer Science Degree Progress Chart </h4> 
   <p align="center">TECH STACK: React, Vite, Tailwind, ChartsJS, Typescript, Firebase </p>
-  <p align="center">Full-stack development - React site to preview AS CS degree progress using multi-series pie chart from ChartsJS </p>
-  <p align="center"> https://github.com/sasszz/degree-progress </p>
+  <p align="center">Full-stack development - React site to preview AS CS degree progress using multi-series pie chart from ChartsJS. 
+  <a href="https://github.com/sasszz/degree-progress" target="_blank" rel="noopener noreferrer">GITHUB REPO</a></p>
   <img align="center" src="dpc-demo.gif" alt="Degree Progress Chart Demo"
  
 <hr>
 
 <h4 align="center">Not Coinbase Wallet React App</h4> 
   <p align="center">TECH STACK: React, HTML5, CSS, Bootstrap, MongoDB, Express </p>
-  <p align="center">Full-stack development - send, receive and view cryptocurrency transactions. </p>
-  <p align="center"> https://github.com/sasszz/self-custody-wallet-react-app</p>
+  <p align="center">Full-stack development - send, receive and view cryptocurrency transactions. 
+  <a href="https://github.com/sasszz/self-custody-wallet-react-app" target="_blank" rel="noopener noreferrer">GITHUB REPO</a></p>
   <img align="center" src="ncb-demo.gif" alt="Wallet Demo"
  
 <hr>
  
 <h4 align="center">Gwei Check Python App</h4> 
-  <p align="center">TECH STACK: Python, Flask, MySQL, AWS EC2 </p>
-  <p align="center">Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees. </p>
-  <p align="center"> https://www.gweicheck.app</p>
-    <img align="center" src="demo.gif" alt="Gas Fee Estimator Demo"
+<p align="center">TECH STACK: Python, Flask, MySQL, AWS EC2 </p>
+<p align="center">Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees. 
+<a href="https://www.gweicheck.app" target="_blank" rel="noopener noreferrer">LIVE SITE</a></p>
+<img align="center" src="demo.gif" alt="Gas Fee Estimator Demo"
  <hr>
   
 <hr>
