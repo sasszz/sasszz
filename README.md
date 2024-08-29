@@ -37,12 +37,10 @@
 <h4>2022 - Note to Chef Recipe App</h4>
 <p>Note to Chef is a tool to assist with planning for a variety of dietary needs by curating a collection of recipes.
 <a href="https://github.com/tinalr/recipebox-gdihackathon2022" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
-<span> | </span>
 
 <h4>2023 - Classroom Connect Video Conferencing App</h4>
 <p>Classroom Connect combines video conferencing and virtual reality for an enhanced classroom experience.
 <a href="https://github.com/sasszz/classroom-connect-mern" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
-<span>
 
 <hr>
 
