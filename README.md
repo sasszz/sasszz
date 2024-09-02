@@ -28,6 +28,27 @@
 
 <hr>
 
+<h3 align="center">📌 Web3 Repositories 📌</h3>
+
+<h4>Gwei Check</h4>
+<p>➡️ Gas fee estimator for the Ethereum Blockchain that populates new estimates every 10 seconds.
+<a href="https://github.com/sasszz/gweicheck.app" target="_blank" rel="noopener noreferrer">GITHUB REPO</a> | 
+<a href="https://gweicheck.app/" target="_blank" rel="noopener noreferrer">LIVE SITE</a>
+
+<h4>Not Coinbase Wallet</h4>
+<p>➡️ Mock self-custody wallet web-app built with React.
+<a href="https://github.com/sasszz/self-custody-wallet-react-app?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
+
+<h4>Hello World Polygon Smart Contract</h4>
+<p>➡️ My first smart contract deployed on Solana's test network Mumbai including update Message function.
+<a href="https://github.com/sasszz/smart-contract-hello-world" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
+
+<h4>Web3 FAQ</h4>
+<p>➡️ HTML CSS site for previous Web3 Interview
+<a href="https://github.com/sasszz/web3FAQ" target="_blank" rel="noopener noreferrer">GITHUB REPO</a>
+
+<hr>
+
 <h3 align="center">:partying_face: GirlDevelopIt Hackathon Participant :partying_face:</h3>
 <div align="center">
   <img src="https://github.com/sasszz/sasszz/assets/95937955/286ec957-e8c8-4088-91f8-46af0454519e" width="100" height="100" alt="GDI2022">
