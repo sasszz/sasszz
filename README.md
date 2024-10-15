@@ -21,7 +21,7 @@
 
 <hr>
 
-<p align="center"> I'm a full-stack developer from California with a passion for front-end development and blockchains. Check out some of my highlighted projects, as well as original art, below! </p>
+<p align="center"> I'm a full-stack developer from California with a passion for computer science, front-end development and Web3 Check out some of my highlighted projects, as well as original art, below! </p>
 <hr>
 
 <img src="pixel-art-room-gif.gif" alt="Pixel Art Room">  
