@@ -33,7 +33,7 @@
 <h4>Gwei Check</h4>
 <p>➡️ Gas fee estimator for the Ethereum Blockchain that populates new estimates every 10 seconds.
 <a href="https://github.com/sasszz/gweicheck.app" target="_blank" rel="noopener noreferrer">GITHUB REPO</a> | 
-<a href="https://gweicheck.app/" target="_blank" rel="noopener noreferrer">LIVE SITE</a>
+<a href="https://secret-ravine-09151-414432ed9e49.herokuapp.com/" target="_blank" rel="noopener noreferrer">LIVE SITE</a>
 
 <h4>Not Coinbase Wallet</h4>
 <p>➡️ Mock self-custody wallet web-app built with React.
@@ -86,7 +86,7 @@
 <h4 align="center">Gwei Check Python App</h4> 
 <p align="center">TECH STACK: Python, Flask, MySQL, AWS EC2 </p>
 <p align="center">Full-stack development - live on Heroku - users can check the current cost to transact on the Ethereum Blockchain and set an email alert for low gas fees. 
-<a href="https://www.gweicheck.app" target="_blank" rel="noopener noreferrer">LIVE SITE</a></p>
+<a href="https://secret-ravine-09151-414432ed9e49.herokuapp.com/" target="_blank" rel="noopener noreferrer">LIVE SITE</a></p>
 <img align="center" src="demo.gif" alt="Gas Fee Estimator Demo"
  <hr>
   
